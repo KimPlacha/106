@@ -1,0 +1,9 @@
+we need to divide the screen in two sections
+(section A and section B)
+
+section A is the list
+section B is the form
+
+html body main section#form div .btn-primary {
+    background-color: red;
+}
